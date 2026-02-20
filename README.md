@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me  
 - 🎓 I’m a **3rd Year AIML Undergrad**  
-- 💡 **Technical Lead @ MLSC (Microsoft Learn Student Club)**  
+- 💡 **Vice-President @ MLSC (Microsoft Learn Student Club)**  
 - 🧑‍💻 Passionate about **Web Development, AI/ML & Deep Learning**  
 - ⚡ Worked on **Django**, **React.js**, **Next.js**, and cool **AIML projects**  
 - 🌱 Currently learning **System Design & Advanced ML concepts**  
